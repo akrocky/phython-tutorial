@@ -1,0 +1,12 @@
+[
+  {
+    "product": "T-shirt",
+    "price": 5.999,
+    "stock Availability": 15
+  },
+  {
+    "product": "Jeans",
+    "price": 13.99,
+    "stock Availability": 8
+  }
+]
